@@ -1,28 +1,25 @@
-# This is a large heading
+# ME
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I inhabit the Earth, thanks for asking.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Mostly books.
 
-Here is `some code` in the middle of a sentence.
+- This book.
+- This other book.
+- Well, this one's also a book.
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I need it to live, indeed.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Food
+2. Food
+3. Food
+
+### Contact
+
+No thanks.
